@@ -1,4 +1,23 @@
-# Ignore ROS build files
+# ROS build outputs
+build/
+devel/
+install/
+install_isolated/
+log/
+logs/
+
+# CMake / ROS generated
+*.so
+*.a
+*.pyc
+*.swp
+*.log
+*.DS_Store
+
+# Ignore hidden and cache files
+__pycache__/
+.idea/
+.vscode # Ignore ROS build files
 build/
 devel/
 log/
