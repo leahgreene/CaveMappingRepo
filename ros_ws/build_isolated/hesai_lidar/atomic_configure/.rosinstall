@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/leah/catkin_ws/devel_isolated/hesai_lidar/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/leah/catkin_ws/install_isolated
+
+Name: hesai_lidar
+Description: Description of hesai_lidar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

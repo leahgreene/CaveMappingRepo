@@ -1,0 +1,2 @@
+HesaiLidar_ROS:LIO-SAM:gtsam
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/leah/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/leah/catkin_ws/install_isolated

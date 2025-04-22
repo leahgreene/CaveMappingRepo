@@ -1,0 +1,10 @@
+# Ignore ROS build files
+build/
+devel/
+log/
+*.pcd
+*.bag
+*.pcap
+*.so
+*.swp
+*.log
