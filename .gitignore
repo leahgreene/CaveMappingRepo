@@ -28,3 +28,11 @@ log/
 *.swp
 *.log
 data/imu_data.csv
+
+
+# Ignore large datasets
+datasets/Fieg/
+datasets/Hesai_Oct2022/
+datasets/IndianTunnel/
+datasets/KingsBowl/
+
