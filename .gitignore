@@ -27,3 +27,4 @@ log/
 *.so
 *.swp
 *.log
+data/imu_data.csv
