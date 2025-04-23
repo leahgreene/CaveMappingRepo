@@ -1,4 +1,4 @@
-# SLAM-based Cave Mapping SLAM Thesis Project
+# SLAM-based Cave Mapping Thesis Project
 
 This repository contains the code and setup for my thesis work using LiDAR-based SLAM. It includes:
 
